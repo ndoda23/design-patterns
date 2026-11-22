@@ -1,4 +1,4 @@
-# Spore: Predator vs. Prey Simulation
+# Spore: Predator vs Prey Simulation
 
 Assignment 1 for the Design Patterns course. Inspired by the game
 [Spore](https://www.spore.com/), where creatures evolve body parts
